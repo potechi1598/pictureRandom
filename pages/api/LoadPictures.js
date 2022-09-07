@@ -1,6 +1,4 @@
-import { useState } from "react";
 import Image from "next/image";
-import { picturesInfo } from "../../posts/data/pictureData.json";
 import styles from "../../styles/LoadPictures.module.css";
 
 export const LoadPictures = ({ randomNumber, onClickEvent }) => {
@@ -14,6 +12,7 @@ export const LoadPictures = ({ randomNumber, onClickEvent }) => {
         width={200}
         height={200}
         onClick={onClickEvent}
+        strategy="lazyOnload"
       />
     </div>
   );

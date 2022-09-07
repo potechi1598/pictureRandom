@@ -4,20 +4,30 @@
     {
       "id": 2,
       "path": "zoro.png",
-      "comment": "ゾロ"
+      "comment": "ロロノア・ゾロ"
     },
     {
       "id": 3,
       "path": "flunky.png",
       "comment": "フランキー"
     },
-    { "id": 4, "path": "luffy.png", "comment": "ルフィ" },
+    { "id": 4, "path": "luffy.png", "comment": "モンキー・D・ルフィ" },
     { "id": 5, "path": "arlong.png", "comment": "アーロン" },
     { "id": 6, "path": "enel.png", "comment": "エネル" },
-    { "id": 7, "path": "chopper.png", "comment": "チョッパー" },
-    { "id": 8, "path": "jinbe.png", "comment": "ジンベー" },
-    { "id": 9, "path": "moria.png", "comment": "モリア" },
+    { "id": 7, "path": "chopper.png", "comment": "トニートニー・チョッパー" },
+    { "id": 8, "path": "jinbe.png", "comment": "ジンベエ" },
+    { "id": 9, "path": "moria.png", "comment": "ゲッコー・モリア" },
     { "id": 10, "path": "doflamingo.png", "comment": "ドフラミンゴ" },
-    { "id": 11, "path": "sanji.png", "comment": "サンジ" }
+    { "id": 11, "path": "sanji.png", "comment": "サンジ" },
+    { "id": 12, "path": "brook.png", "comment": "ブルック" },
+    { "id": 13, "path": "buggy.png", "comment": "バギー" },
+    { "id": 14, "path": "crocodile.png", "comment": "クロコダイル" },
+    { "id": 15, "path": "lucci.png", "comment": "ロブ・ルッチ" },
+    { "id": 16, "path": "robin.png", "comment": "ニコ・ロビン" },
+    {
+      "id": 17,
+      "path": "usopp_sogeking.png",
+      "comment": "そげキング（ウソップ）"
+    }
   ]
 }
